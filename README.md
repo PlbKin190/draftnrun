@@ -1,4 +1,4 @@
-# DraftNRun
+# Draft'n run
 
 We provide here a guide on how to set up **locally** your DraftNRun backend application.
 
